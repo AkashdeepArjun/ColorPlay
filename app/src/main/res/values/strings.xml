@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorPlay</string>
+    <string name="take_photo">take photo</string>
+    <string name="capture_video">capture video</string>
+    <string name="stop_video_text">Stop</string>
+    <string name="start_recording_text">start recording</string>
+</resources>
